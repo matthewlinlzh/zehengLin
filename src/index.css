@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.zl-card {
+  margin: 20px;
+}
+
+.zl-card-image {
+  border-radius: 10px;
+  width: 300px;
+  height: 380px;
+  box-shadow: aliceblue;
+}
+
+.zl-card-title {
+  font-size: 24px;
+  margin: 0;
+}
+
+.zl-card-info {
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.zl-card-sub-title {
+  font-size: 16px;
+  margin: 0;
+}
+
+
+.success-msg{
+  color: greenyellow;
+  padding: 10px 15px;
+}
+
+.error-msg{
+  color: crimson;
+  padding: 10px 15px;
+}

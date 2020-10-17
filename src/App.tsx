@@ -52,7 +52,9 @@ class App extends React.Component<{}, MyState> {
             <Router>
                 <Container fluid className="p-0">
                     <Navbar className="border-bottom" bg="transparent" expand="lg">
-                        <Navbar.Brand>Zeheng Lin</Navbar.Brand>
+                        <Navbar.Brand>
+                            Zeheng Lin
+                        </Navbar.Brand>
 
                         <Navbar.Toggle aria-controls="navbar-toggle" className="border-0"/>
                         <Navbar.Collapse id="navbar-toggle">
